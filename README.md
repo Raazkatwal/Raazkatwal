@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raazkatwal&label=Profile%20views&color=0e75b6&style=flat" alt="raazkatwal" /> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **raazkatwal5@gmail.com**
 
