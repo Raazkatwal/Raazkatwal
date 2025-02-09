@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raazkatwal&label=Profile%20views&color=0e75b6&style=flat"
         alt="raazkatwal" /> </p>
 
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **raazkatwal5@gmail.com**
 
@@ -46,6 +46,10 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" 
              alt="laravel" width="40" height="40" />
+    </a>
+    <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" 
+             alt="livewire" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
