@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+<!-- 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=raazkatwal&show_icons=true&theme=vue-dark&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raazkatwal&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="45%"/>
@@ -21,11 +21,11 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raazkatwal&theme=vue&bg_color=0D1117&hide_border=true&line=38BDD8&point=FFFFFF" alt="Activity Graph" width="90%"/>
-</div>
+</div> -->
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 
